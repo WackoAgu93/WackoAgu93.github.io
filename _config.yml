@@ -1,67 +1,33 @@
-url: "https://wackoagu93.github.io"
-baseurl: /
+# Welcome to Agency Jekyll Theme!
 
-
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "WackoAgu93 blog"
+
+title:   Wackoagu 93 Blog
 email: wackoagu@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/wackoagu93
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+description: > # this means to ignore newlines until "author:"
+  "블로그입니다."
+author: WackoAgu93
+keyword: jekyll
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wackoagu93.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  WackoAgu93
 
 # Build settings
+
 markdown: kramdown
-permalink: pretty
+
+theme: agency-jekyll-theme 
+#The "agency-jekyll-theme" is not supported by GitHub Pages. 
+
+gems:
+  - jekyll-feed
+exclude:
+  - agency-jekyll-theme.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
