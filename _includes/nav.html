@@ -11,7 +11,7 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
+<!--             <ul class="nav navbar-nav navbar-right">
                 <li class="hidden">
                     <a href="#page-top"></a>
                 </li>
@@ -30,14 +30,22 @@
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
                 </li>
-            </ul>
+            </ul> -->
+            <ul class="category-large">
+			    <li class="category-item"><a href="#services">Services</a></li>
+			    <li class="category-item"><a href="#portfolio">Portfolio</a></li>
+			    <li class="category-item"><a href="#about">About</a></li>
+			    <li class="category-item"><a href="#team">Team</a></li>
+			    <li class="category-item"><a href="#contact">Contact</a></li>
+			</ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container-fluid -->
+</nav>
 <script>
-$('ul.navbar-right').on('click', 'a.page-scroll', function() {
-	var name = $(this).text();
+$('ul.category-large').on('click', 'li.category-item', function() {
+	var name = $(this).find('a').text();
 	ga('send', {
 	hitType: 'event', //이벤트라고 명시
 	eventCategory: 'home', //메인 화면에서 일어나는
@@ -46,4 +54,3 @@ $('ul.navbar-right').on('click', 'a.page-scroll', function() {
 	});
 	});
 </script>
-</nav>
