@@ -108,7 +108,7 @@
 
 
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/search" class="js-site-search-form" data-scoped-search-url="/laklau/agency-jekyll-theme/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/search" class="js-site-search-form" data-scoped-search-url="/laklau/agency-jekyll-theme/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
       <div class="header-search-scope">This repository</div>
       <input type="text"
@@ -230,7 +230,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Lbg3EV2ZmtgziAQFkudbjOwyss31sxKH3NDF5HOaLYM1S6NiFwuLv3c/o0NtWEDaw5hFRuPMmJHvdtV4Tza8lA==" /></div>
+        <form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Lbg3EV2ZmtgziAQFkudbjOwyss31sxKH3NDF5HOaLYM1S6NiFwuLv3c/o0NtWEDaw5hFRuPMmJHvdtV4Tza8lA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -266,7 +266,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="J1fW4tcNxH6zzCqU1PkBLRMY20jp2KJg3M6H2GciVCc/pEKRnZ/VGfd7jdIrRhp7PLIsw/+nKHbvaJdEW47FMA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="74837402" />
+       <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="J1fW4tcNxH6zzCqU1PkBLRMY20jp2KJg3M6H2GciVCc/pEKRnZ/VGfd7jdIrRhp7PLIsw/+nKHbvaJdEW47FMA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="74837402" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/laklau/agency-jekyll-theme/subscription"
@@ -343,7 +343,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/unstar" class="starred" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bjZZrdtCwWlCQq8wk6jvYc+G1bZdrYHTwAZPgUIOM6B2xc3ekdDQDgb1CHZsF/Q34CwiPUvSC8XzoF8dfqKitw==" /></div>
+    <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/unstar" class="starred" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bjZZrdtCwWlCQq8wk6jvYc+G1bZdrYHTwAZPgUIOM6B2xc3ekdDQDgb1CHZsF/Q34CwiPUvSC8XzoF8dfqKitw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -357,7 +357,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/star" class="unstarred" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="u/hpWxMcIXY5tYK8xy6Kakbc7P1QhUzH9UT3TWVKQhqjC/0oWY4wEX0CJfo4kZE8aXYbdkb6xtHG4ufRWebTDQ==" /></div>
+    <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/star" class="unstarred" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="u/hpWxMcIXY5tYK8xy6Kakbc7P1QhUzH9UT3TWVKQhqjC/0oWY4wEX0CJfo4kZE8aXYbdkb6xtHG4ufRWebTDQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -537,7 +537,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="H+8yeFPd2DGz+ikg3Po2Yu2WywENMqahWMoySXfAThYHHKYLGU/JVvdNjmYjRS00wjw8ihtNLLdrbCLVS2zfAQ==" /></div>
+          <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="H+8yeFPd2DGz+ikg3Po2Yu2WywENMqahWMoySXfAThYHHKYLGU/JVvdNjmYjRS00wjw8ihtNLLdrbCLVS2zfAQ==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -598,12 +598,12 @@
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/edit/master/mail/contact_me.php" class="inline-form js-update-url-with-hash" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Qfe8/0T1dtjU50ar3j5dEuZHoCyrEhuctX3ueMJPAZlZBCiMDmdnv5BQ4e0hgUZEye1Xp71tkYqG2/7k/uOQjg==" /></div>
+        <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/edit/master/mail/contact_me.php" class="inline-form js-update-url-with-hash" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Qfe8/0T1dtjU50ar3j5dEuZHoCyrEhuctX3ueMJPAZlZBCiMDmdnv5BQ4e0hgUZEye1Xp71tkYqG2/7k/uOQjg==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/delete/master/mail/contact_me.php" class="inline-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g5wKUimkbR9zoARY+nGWEkHBln6b8YcfzDl7cvjtZ3abb54hYzZ8eDcXox4Fzo1Ebmth9Y2ODQn/n2vuxEH2YQ==" /></div>
+</form>        <form accept-charset="UTF-8" action="/laklau/agency-jekyll-theme/delete/master/mail/contact_me.php" class="inline-form" data-form-nonce="dc1227370f3fdfe6f833feb717fcd1b444eea002" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g5wKUimkbR9zoARY+nGWEkHBln6b8YcfzDl7cvjtZ3abb54hYzZ8eDcXox4Fzo1Ebmth9Y2ODQn/n2vuxEH2YQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -733,7 +733,7 @@
 
 <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
 <div id="jump-to-line" style="display:none">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
     <button type="submit" class="btn">Go</button>
 </form></div>
@@ -783,7 +783,7 @@
       <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
         <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
       </button>
-      You can't perform that action at this time.
+
     </div>
 
 
