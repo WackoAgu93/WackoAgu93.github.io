@@ -121,7 +121,8 @@
         data-scoped-placeholder="Search"
         autocapitalize="off">
     </label>
-</form></div>
+   </form>
+</div>
 
 
       <ul class="header-nav float-left" role="navigation">
@@ -691,7 +692,7 @@
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c">// Create the email and send the message</span></span></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"></span></span></td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
@@ -707,7 +708,7 @@
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">$headers</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>From: fromGitBlog@gitblog.git<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>; <span class="pl-c">// This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.</span></span></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-smi">$headers</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>From: fromGitBlog@gitblog.git<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>; <span class="pl-c"></span></span></td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
