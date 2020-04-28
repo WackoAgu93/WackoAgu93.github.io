@@ -1,5 +1,6 @@
 
 <?php
+try {
 // Check for empty fields
 if(empty($_POST['name'])      ||
    empty($_POST['email'])     ||
@@ -28,4 +29,5 @@ $header.= "X-Mailer: PHP";
 //mail($to,$email_subject,$email_body,$headers);
 
 return true;
+} catch(exception $e) {}
 ?>
