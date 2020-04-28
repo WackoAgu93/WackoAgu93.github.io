@@ -183,6 +183,7 @@ header {
             font-size: 22px;
             line-height: 22px;
             margin-bottom: 25px;
+            -webkit-text-stroke: 1px #000;
         }
         .intro-heading {
             @include heading-font;
@@ -190,6 +191,7 @@ header {
             font-size: 50px;
             line-height: 50px;
             margin-bottom: 25px;
+            -webkit-text-stroke: 1px #000;
         }
     }
 }
@@ -205,6 +207,7 @@ header {
                 font-size: 40px;
                 line-height: 40px;
                 margin-bottom: 25px;
+                -webkit-text-stroke: 1px #000;
             }
             .intro-heading {
                 @include heading-font;
@@ -212,6 +215,7 @@ header {
                 font-size: 75px;
                 line-height: 75px;
                 margin-bottom: 50px;
+                -webkit-text-stroke: 1px #000;
             }
         }
     }
