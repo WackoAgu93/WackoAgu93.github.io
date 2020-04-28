@@ -25,7 +25,7 @@ $headers .= "Reply-To: $email_address";
 $header.= "MIME-Version: 1.0";
 $header.= "Content-Type: text/html; charset=utf-8";
 $header.= "X-Mailer: PHP";
-mail($to,$email_subject,$email_body,$headers);
+//mail($to,$email_subject,$email_body,$headers);
 
 return true;
 ?>
