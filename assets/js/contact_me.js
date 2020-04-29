@@ -33,7 +33,7 @@ $(function() {
             let mailOption = {
                 from : email,
                 to : 'agumail93@gmail.com',
-                subject : 'nodemailer test',
+                subject : name+' 님의 요청 및 문의 메일',
                 text : '이름 : '+name+'<br>'+'핸드폰 번호'+phone+'<br>'+'이메일 : '+email+'<br>'+message
             };
 
